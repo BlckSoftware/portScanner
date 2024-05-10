@@ -17,7 +17,7 @@ def welcome_screen(app_name,delay_time):
     # Define the variables
     
     created_by = "Created by: Hüseyin Karayazım"
-    github_link = "https://github.com/BlckSoftware"
+    github_link = "https://github.com/huseyinkarayazim"
     web_site="https://www.huseyinkarayazim.com.tr"
 
     # Print the ASCII art with blue color
